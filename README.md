@@ -5,7 +5,7 @@
 [![Video](https://img.shields.io/badge/YouTube-Video-c4302b?logo=youtube&logoColor=red)](https://github.com/dreamoving/dreamoving-project)
 
 > **DreaMoving: A Human Dance Video Generation Framework based on Diffusion Models**<br>
-> [Mengyang Feng](), [Jinlin Liu](), [Kai Yu](), [Yuan Yao](), [Zheng Hui](), [Xiefan Guo](), [Xianhui Lin](), [Haolan Xue](), [Chen Shi](), [Xiaowen Li](), [Aojie Li](), [Miaomiao Cui](), [Peiran Ren](), [Xuansong Xie]()<br>
+> [Mengyang Feng](https://github.com/ArcherFMY), [Jinlin Liu](), [Kai Yu](), [Yuan Yao](), [Zheng Hui](), [Xiefan Guo](), [Xianhui Lin](), [Haolan Xue](), [Chen Shi](), [Xiaowen Li](), [Aojie Li](), [Xiaoyang Kang](), [Biwen Lei](), [Miaomiao Cui](), [Peiran Ren](), [Xuansong Xie]()<br>
 > Alibaba Group
 
 <strong>TL;DR</strong>: <strong>DreaMoving</strong> is a diffusion-based controllable video generation framework to produce high-quality customized human dance videos.
@@ -69,9 +69,9 @@
 
 ```bibtex
 @article{feng2023dreamoving,
-    title={DreaMoving: A Human Dance Video Generation Framework based on Diffusion Models},
+    title={DreaMoving: A Human Video Generation Framework based on Diffusion Models},
     author={Mengyang Feng, Jinlin Liu, Kai Yu, Yuan Yao, Zheng Hui, Xiefan Guo, Xianhui Lin, Haolan Xue,
-            Chen Shi, Xiaowen Li, Aojie Li, Miaomiao Cui, Peiran Ren, Xuansong Xie},
+            Chen Shi, Xiaowen Li, Aojie Li, Xiaoyang Kang, Biwen Lei, Miaomiao Cui, Peiran Ren, Xuansong Xie},
     journal={arXiv},
     year={2023}
 }
