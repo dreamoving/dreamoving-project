@@ -4,11 +4,11 @@
 [![Project Page](https://img.shields.io/badge/DreaMoving-Website-green?logo=googlechrome&logoColor=green)](https://dreamoving.github.io/dreamoving)
 [![Video](https://img.shields.io/badge/YouTube-Video-c4302b?logo=youtube&logoColor=red)](https://github.com/dreamoving/dreamoving-project)
 
-> **DreaMoving: A Human Dance Video Generation Framework based on Diffusion Models**<br>
+> **DreaMoving: A Human Video Generation Framework based on Diffusion Models**<br>
 > [Mengyang Feng](https://github.com/ArcherFMY), [Jinlin Liu](), [Kai Yu](), [Yuan Yao](), [Zheng Hui](), [Xiefan Guo](), [Xianhui Lin](), [Haolan Xue](), [Chen Shi](), [Xiaowen Li](), [Aojie Li](), [Xiaoyang Kang](), [Biwen Lei](), [Miaomiao Cui](), [Peiran Ren](), [Xuansong Xie]()<br>
 > Alibaba Group
 
-<strong>TL;DR</strong>: <strong>DreaMoving</strong> is a diffusion-based controllable video generation framework to produce high-quality customized human dance videos.
+<strong>TL;DR</strong>: <strong>DreaMoving</strong> is a diffusion-based controllable video generation framework to produce high-quality customized human videos.
 
 <table border="0" cellspacing="0" cellpadding="0" align="center">
     <tr>
