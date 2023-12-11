@@ -13,34 +13,22 @@
 <table border="0" cellspacing="0" cellpadding="0" align="center">
     <tr>
         <td align="center" valign="middle">
-            <video id="v0" width="99%" autoplay loop muted controls>
-                <source src="assets/videos/teaser/1.mp4" type="video/mp4" />
-            </video>
+            <img src="assets/videos/teaser/1.gif">
         </td>
         <td align="center" valign="middle">
-            <video id="v0" width="99%" autoplay loop muted controls>
-                <source src="assets/videos/teaser/2.mp4" type="video/mp4" />
-            </video>
+            <img src="assets/videos/teaser/2.gif">
         </td>
         <td align="center" valign="middle">
-            <video id="v0" width="99%" autoplay loop muted controls>
-                <source src="assets/videos/teaser/3.mp4" type="video/mp4" />
-            </video>
+            <img src="assets/videos/teaser/3.gif">
         </td>
         <td align="center" valign="middle">
-            <video id="v0" width="99%" autoplay loop muted controls>
-                <source src="assets/videos/teaser/4.mp4" type="video/mp4" />
-            </video>
+            <img src="assets/videos/teaser/4.gif">
         </td>
         <td align="center" valign="middle">
-            <video id="v0" width="99%" autoplay loop muted controls>
-                <source src="assets/videos/teaser/5.mp4" type="video/mp4" />
-            </video>
+            <img src="assets/videos/teaser/5.gif">
         </td>
         <td align="center" valign="middle">
-            <video id="v0" width="99%" autoplay loop muted controls>
-                <source src="assets/videos/teaser/6.mp4" type="video/mp4" />
-            </video>
+            <img src="assets/videos/teaser/6.gif">
         </td>
     </tr>
     <tr>
