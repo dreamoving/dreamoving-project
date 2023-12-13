@@ -6,7 +6,7 @@
 
 > **DreaMoving: A Human Video Generation Framework based on Diffusion Models**<br>
 > [Mengyang Feng](https://github.com/ArcherFMY), [Jinlin Liu](), [Kai Yu](), [Yuan Yao](), [Zheng Hui](), [Xiefan Guo](), [Xianhui Lin](), [Haolan Xue](), [Chen Shi](), [Xiaowen Li](), [Aojie Li](), [Xiaoyang Kang](), [Biwen Lei](), [Miaomiao Cui](), [Peiran Ren](), [Xuansong Xie]()<br>
-> Alibaba Group
+> Institute for Intelligent Computing, Alibaba Group
 
 <strong>TL;DR</strong>: <strong>DreaMoving</strong> is a diffusion-based controllable video generation framework to produce high-quality customized human videos.
 
