@@ -10,6 +10,12 @@
 
 <strong>TL;DR</strong>: <strong>DreaMoving</strong> is a diffusion-based controllable video generation framework to produce high-quality customized human videos.
 
+## Demo
+中文版
+[ModelScope创空间](https://www.modelscope.cn/studios/vigen/video_generation/summary)
+
+English Version [HuggingFace](https://huggingface.co/spaces/jiayong/Dreamoving)
+
 <table border="0" cellspacing="0" cellpadding="0" align="center">
     <tr>
         <td align="center" valign="middle">
