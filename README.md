@@ -14,7 +14,7 @@
 中文版
 [ModelScope创空间](https://www.modelscope.cn/studios/vigen/video_generation/summary)
 
-English Version [HuggingFace](https://huggingface.co/spaces/jiayong/Dreamoving)
+English Version [Hugging Face](https://huggingface.co/spaces/jiayong/Dreamoving)
 
 <table border="0" cellspacing="0" cellpadding="0" align="center">
     <tr>
